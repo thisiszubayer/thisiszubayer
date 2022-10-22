@@ -2,7 +2,7 @@
 - 👀 I’m interested in Programming, Graphics designing, Video Editing & Game developing
 - 🌱 I’m currently learning C++, C#, How to use Unity Game Engine
 - 💞️ I’m looking to collaborate on LITERALLY NOWHERE!
-- 📫 How to reach me: The only way is email! Email: zubayerforyou@gmail.com 
+- 📫 How to reach me: The only way is email! Email: thisiszubayer@gmail.com 
 - YouTube: youtube.com/CREATIONTUBE
 - Website: creationtube.org
 - From Bangladesh :bangladesh:
