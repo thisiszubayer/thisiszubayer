@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ThisIsZubayer
-- 👀 I’m interested in Programming, Graphics designing, Video Editing & Game developing
-- 🌱 I’m currently learning C++, C#, How to use Unity Game Engine
-- 💞️ I’m looking to collaborate on LITERALLY NOWHERE!
+- 👀 I’m interested in Programming, Graphics designing, Video Editing, Game developing, AI & Automation
+- 🌱 I’m currently learning C, C++, C#, HTML, Unity Game Engine
+- 
 - 📫 How to reach me: The only way is email!
                        Email me: 
 ►thisiszubayer@gmail.com 
