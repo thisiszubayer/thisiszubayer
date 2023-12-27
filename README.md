@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @thisiszubayer
-- 👀 I’m interested in Programming, Graphics designing, Video Editing, Game developing, AI & Automation
+- 👀 I’m interested in game developing, AI & automation
 - 🌱 I’m currently learning C, C++, C#, HTML, Unity Game Engine
 - 📫 Email me: thisiszubayer@gmail.com 
 - ▶️YouTube: https://youtube.com/CREATIONTUBE
