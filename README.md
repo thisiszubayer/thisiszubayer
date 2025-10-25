@@ -25,23 +25,21 @@ My project, **Guessing Cricket**, serves as an excellent demonstration of my abi
 ---
 
 ## 🌐 Let's Connect
-
+**📧 Email:** thisiszubayer@gmail.com
 <div align="center">
+  <h4> Find me across the socials @thisiszubayer </h4>
+  <br>
   <!-- Grouped Social Buttons with Spaces -->
-  <a href="mailto:thisiszubayer@gmail.com">
-    <img alt="Email Me" src="https://img.shields.io/badge/Email%20Me-0078D4?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/thisiszubayer">
-    <img alt="GitHub Profile" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  &nbsp;&nbsp;
   <a href="https://facebook.com/thisiszubayer">
     <img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://twitter.com/thisiszubayer">
-    <img alt="Follow on X" src="https://img.shields.io/badge/Follow%20on%20X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+    <img alt="X (Twitter)" src="https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/thisiszubayer">
+    <img alt="GitHub Profile" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </div>
 <br>
